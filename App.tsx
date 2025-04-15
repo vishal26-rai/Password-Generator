@@ -58,9 +58,7 @@ export default function App() {
       const characterIndex = Math.round(Math.random() * characters.length)
       result += characters.charAt(characterIndex)
     }
-    return result
-    console.log("hitesh");
-    
+    return result 
   }
 
   const resetPasswordState = () => {
