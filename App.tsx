@@ -187,6 +187,7 @@ export default function App() {
 const styles = StyleSheet.create({
   appContainer: {
     flex: 1,
+    backgroundColor: '#000000',
   },
   formContainer: {
     margin: 8,
